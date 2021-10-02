@@ -1,0 +1,16 @@
+PODS:
+  - DeeplinkKit (0.1.0)
+
+DEPENDENCIES:
+  - DeeplinkKit (from `../`)
+
+EXTERNAL SOURCES:
+  DeeplinkKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  DeeplinkKit: 56f60176124bac898f948062d781db660f7939ac
+
+PODFILE CHECKSUM: a35721ad95b4e9eb91b50d17e1d51ee0f74188f3
+
+COCOAPODS: 1.10.1
